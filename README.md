@@ -1,4 +1,4 @@
-# A PoC getting recipies storage in Cloud Firebase
+# A PoC getting recipies storaged in Cloud Firebase
 
 This is a study that I do for learning how get data of Firebase, how convert complex objects for a entitie in Dart Lang and finally showing this in a app.
 
